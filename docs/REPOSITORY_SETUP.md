@@ -17,7 +17,7 @@ The local Git repository is prepared and staged locally for presentation to the 
 
 ### Step 1: Navigate to Project Root
 ```powershell
-cd C:\Users\jaiaa\.gemini\antigravity\scratch\crime_gnn_project
+cd crime_gnn_project
 ```
 
 ### Step 2: Initialize Git Repository

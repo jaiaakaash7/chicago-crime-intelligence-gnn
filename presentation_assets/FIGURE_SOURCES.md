@@ -1,8 +1,8 @@
 # Chicago Crime Intelligence System: Figure Verification & Source Provenance
 ## Complete Audit Trail of Analytical Figures, Data Sources & Report Placements
 
-**Project Repository**: `C:\Users\jaiaa\.gemini\antigravity\scratch\crime_gnn_project`  
-**Source Document**: `C:\Users\jaiaa\OneDrive\Desktop\Chicago_Crime_Intelligence_System_Report.pdf` (and `.docx`)  
+**Project Repository**: `chicago-crime-intelligence-gnn`  
+**Source Document**: `Chicago_Crime_Intelligence_System_Report.pdf` (and `.docx`)  
 **Target Report**: `Chicago_Crime_Intelligence_System_Final_With_Graphs.docx` / `.pdf`  
 **Verification Standard**: Zero Fabrication, Strictly Empirical Project Outputs  
 

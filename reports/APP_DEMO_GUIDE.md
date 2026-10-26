@@ -10,10 +10,7 @@
 ## Part 1: Standard Windows Launch Instructions
 
 ### Method A: One-Click Batch Launch (Recommended for Presentations)
-1. Open Windows File Explorer and navigate to:
-   ```
-   C:\Users\jaiaa\.gemini\antigravity\scratch\crime_gnn_project
-   ```
+1. Open Windows File Explorer and navigate to your project directory (`crime_gnn_project`).
 2. Double-click **`START_HERE.bat`** (or `run_app.bat`).
 3. A terminal window will open, verify environment packages, check pre-computed artifacts, and initialize the Gradio server.
 4. When you see:
@@ -31,7 +28,7 @@
 If you prefer launching from an existing terminal:
 ```powershell
 # 1. Navigate to project root directory
-cd C:\Users\jaiaa\.gemini\antigravity\scratch\crime_gnn_project
+cd crime_gnn_project
 
 # 2. Verify Python environment
 python --version

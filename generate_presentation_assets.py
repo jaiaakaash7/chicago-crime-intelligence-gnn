@@ -4,7 +4,8 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 
-ASSETS_DIR = r"C:\Users\jaiaa\.gemini\antigravity\scratch\crime_gnn_project\presentation_assets"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+ASSETS_DIR = os.path.join(BASE_DIR, "presentation_assets")
 os.makedirs(ASSETS_DIR, exist_ok=True)
 
 # -------------------------------------------------------------

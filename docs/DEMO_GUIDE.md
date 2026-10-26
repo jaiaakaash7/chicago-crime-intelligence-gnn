@@ -19,7 +19,7 @@ Ensure dependencies are installed and precomputed artifacts are verified.
 Open PowerShell or Command Prompt, navigate to the project directory, and execute the pre-flight verification:
 
 ```powershell
-cd C:\Users\jaiaa\.gemini\antigravity\scratch\crime_gnn_project
+cd crime_gnn_project
 python verify_project.py
 ```
 *Expected Result:* `69/69 checks PASSED (100.0% integrity)`.
