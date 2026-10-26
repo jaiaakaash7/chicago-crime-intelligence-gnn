@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, methodology, or experimental findings in your research or academic coursework, please cite it as below."
+title: "Chicago Crime Intelligence System: GraphSAGE-Based Crime Classification, Candidate Link Prediction and Network Analytics"
+version: 1.0.0
+date-released: 2026-10-26
+license: MIT
+authors:
+  - family-names: "Jai Aakaash"
+    given-names: "A."
+    affiliation: "School of Computer Science and Engineering, Vellore Institute of Technology, Chennai"
+  - family-names: "Ravi Kumar"
+    given-names: "Tharunika"
+    affiliation: "School of Computer Science and Engineering, Vellore Institute of Technology, Chennai"
+contact:
+  - name: "Dr. S. Johanan Joysingh (Supervisor)"
+    affiliation: "Vellore Institute of Technology, Chennai"
+keywords:
+  - "forensic analytics"
+  - "graph neural networks"
+  - "graphsage"
+  - "crime intelligence"
+  - "link prediction"
+  - "spatio-temporal analysis"
+  - "network science"
+  - "louvain community detection"
+abstract: >-
+  An inductive graph deep learning and network analytics framework for municipal crime
+  analysis. The system constructs a spatio-temporal graph connecting 30,000 incident events
+  across Chicago via k-d tree spatial-temporal indexing, trains a 2-hop GraphSAGE model
+  for multi-class crime categorization across 30 primary statutory types, extracts 64-dimensional
+  latent embeddings, and implements an explainable multi-factor scoring engine identifying
+  71,915 candidate investigative links alongside a self-contained local Gradio dashboard.

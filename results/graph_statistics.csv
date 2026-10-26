@@ -1,0 +1,2 @@
+node_count,edge_count,undirected_edges,density,average_degree,maximum_degree,connected_components,isolated_nodes
+30000,189474,94737,0.00021053368445614855,6.3158,60,152,5

@@ -1,0 +1,22 @@
+# Configuration for Chicago Crime Intelligence System
+seed: 42
+sample_size: 30000
+feature_dim: 40
+hidden_dim: 128
+embedding_dim: 64
+num_classes: 31
+learning_rate: 0.001
+weight_decay: 0.0005
+epochs: 50
+train_ratio: 0.70
+val_ratio: 0.15
+test_ratio: 0.15
+spatial_radius_km: 1.5
+temporal_window_days: 7
+link_weights:
+  gnn: 0.35
+  spatial: 0.25
+  temporal: 0.15
+  type: 0.15
+  district: 0.10
+raw_data_path: "C:\\Users\\jaiaa\\Downloads\\archive (11)\\Crimes_-_2001_to_Present.csv"
