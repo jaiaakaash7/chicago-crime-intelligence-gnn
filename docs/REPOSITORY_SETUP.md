@@ -87,7 +87,7 @@ When approval is granted to publish to GitHub:
 
 ### Step 2: Link Remote and Push
 ```powershell
-git remote add origin https://github.com/<your-username>/chicago-crime-intelligence-gnn.git
+git remote add origin https://github.com/jaiaakaash7/chicago-crime-intelligence-gnn.git
 git branch -M main
 git push -u origin main
 ```

@@ -28,7 +28,7 @@ As specified in the Third Review evaluation guidelines:
 
 ### Step 1: Navigate to Repository Settings
 1. Open your browser and navigate to your GitHub repository:
-   `https://github.com/<your-username>/chicago-crime-intelligence-gnn`
+   `https://github.com/jaiaakaash7/chicago-crime-intelligence-gnn`
 2. Click on the **Settings** tab located on the repository navigation bar.
 
 ### Step 2: Access Collaborators Management
@@ -60,7 +60,7 @@ As specified in the Third Review evaluation guidelines:
 If GitHub email notifications are delayed, you can provide the direct invitation URL to your professor and teammate:
 
 ```text
-https://github.com/<your-username>/chicago-crime-intelligence-gnn/invitations
+https://github.com/jaiaakaash7/chicago-crime-intelligence-gnn/invitations
 ```
 
 When logged into GitHub as `johananj`, navigating to this URL will immediately present an **Accept Invitation** button.
@@ -74,7 +74,7 @@ Before attending your Third Review meeting, verify the collaborator table in rep
 | Name | Role | GitHub Username | Status Check |
 | :--- | :--- | :--- | :--- |
 | **Dr. S. Johanan Joysingh** | Faculty Supervisor | `johananj` | Pending / Accepted |
-| **A. Jai Aakaash** | Student Author 1 | `<github-username>` | Owner / Accepted |
+| **A. Jai Aakaash** | Student Author 1 | `jaiaakaash7` | Owner / Accepted |
 | **Tharunika Ravi Kumar** | Student Author 2 | `<github-username>` | Accepted / Pending |
 
 ---
